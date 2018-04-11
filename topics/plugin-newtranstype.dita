@@ -10,7 +10,8 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>transformation-type</indexterm>
+        <indexterm>transtype</indexterm>
       </keywords>
     </metadata>
   </prolog>
