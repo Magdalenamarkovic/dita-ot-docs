@@ -10,7 +10,10 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>plugin</indexterm>
+        <indexterm>global val</indexterm>
+        <indexterm>pass parameters</indexterm>
+        <indexterm>Ant bui</indexterm>
       </keywords>
     </metadata>
   </prolog>
