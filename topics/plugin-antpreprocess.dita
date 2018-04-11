@@ -9,7 +9,10 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>Ant-target</indexterm>
+        <indexterm>pre-processing</indexterm>
+        <indexterm>extention-point</indexterm>
+        <indexterm>plugin</indexterm>
       </keywords>
     </metadata>
   </prolog>

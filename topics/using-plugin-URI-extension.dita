@@ -9,7 +9,10 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>path</indexterm>
+        <indexterm>plugin</indexterm>
+        <indexterm>base path</indexterm>
+        <indexterm>references</indexterm>
       </keywords>
     </metadata>
   </prolog>
