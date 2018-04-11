@@ -13,7 +13,27 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>implementation alternatives</indexterm>
+        <indexterm>chunking</indexterm>
+        <indexterm>chunk</indexterm>
+        <indexterm>filter</indexterm>
+        <indexterm>filtering</indexterm>
+        <indexterm>revprop</indexterm>
+        <indexterm>debugging</indexterm>
+        <indexterm>xtrf</indexterm>
+        <indexterm>xtrc</indexterm>
+        <indexterm>image scaling</indexterm>
+        <indexterm>map processing</indexterm>
+        <indexterm>topicref</indexterm>
+        <indexterm>link processing</indexterm>
+        <indexterm>href</indexterm>
+        <indexterm>copy-to processing</indexterm>
+        <indexterm>copy to prcessing</indexterm>
+        <indexterm>coderef processing</indexterm>
+        <indexterm>copy-to</indexterm>
+        <indexterm>implementation-dependent features</indexterm>
+        <indexterm>implementation features</indexterm>
+        <indexterm>processing approach</indexterm>
       </keywords>
     </metadata>
   </prolog>
