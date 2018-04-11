@@ -12,7 +12,12 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>configuration properties</indexterm>
+        <indexterm>otrelease</indexterm>
+        <indexterm>otversion</indexterm>
+        <indexterm>default cascade</indexterm>
+        <indexterm>merge</indexterm>
+        <indexterm>dost-configuration</indexterm>
       </keywords>
     </metadata>
   </prolog>

@@ -12,7 +12,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>transformer</indexterm>
+        <indexterm>reload stylesheet</indexterm>
+        <indexterm>xslt stylesheet</indexterm>
       </keywords>
     </metadata>
   </prolog>

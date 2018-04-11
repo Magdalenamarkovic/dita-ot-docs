@@ -12,7 +12,12 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>transformation terms</indexterm>
+        <indexterm>pdf parameters</indexterm>
+        <indexterm>html parameters</indexterm>
+        <indexterm>html5 parameters</indexterm>
+        <indexterm>xhtml parameters</indexterm>
+        <indexterm>value syntax</indexterm>
       </keywords>
     </metadata>
   </prolog>
