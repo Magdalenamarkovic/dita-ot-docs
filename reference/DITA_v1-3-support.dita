@@ -11,7 +11,27 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>1.3 support</indexterm>
+        <indexterm>1.3 compatibility</indexterm>
+        <indexterm>Toolkit 3.0 1.3</indexterm>
+        <indexterm>OASIS DITA 1.3</indexterm>
+        <indexterm>DITA 1.3</indexterm>
+        <indexterm>XML catalog</indexterm>
+        <indexterm>keyscope</indexterm>
+        <indexterm>ditavalref</indexterm>
+        <indexterm>xmlelement</indexterm>
+        <indexterm>xmlatt</indexterm>
+        <indexterm>line-through</indexterm>
+        <indexterm>overline</indexterm>
+        <indexterm>deliveryTarget</indexterm>
+        <indexterm>orient</indexterm>
+        <indexterm>keyref</indexterm>
+        <indexterm>div</indexterm>
+        <indexterm>cascade</indexterm>
+        <indexterm>rotating table</indexterm>
+        <indexterm>XML mention</indexterm>
+        <indexterm>Toolkit 2.0</indexterm>
+        <indexterm>Toolkit 2.2</indexterm>
       </keywords>
     </metadata>
   </prolog>
