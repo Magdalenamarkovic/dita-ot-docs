@@ -10,7 +10,15 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>PDF</indexterm>
+        <indexterm>XSL-FO</indexterm>
+        <indexterm>conversion to PDF</indexterm>
+        <indexterm>create PDF</indexterm>
+        <indexterm>map to PDF</indexterm>
+        <indexterm>map2PDF</indexterm>
+        <indexterm>topic to PDF</indexterm>
+        <indexterm>topic2PDF</indexterm>
+        <indexterm>transform</indexterm>
       </keywords>
     </metadata>
   </prolog>
