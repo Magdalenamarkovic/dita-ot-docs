@@ -9,7 +9,11 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>classpath</indexterm>
+        <indexterm>import JAR file</indexterm>
+        <indexterm>import Java library</indexterm>
+        <indexterm>DITA-OT</indexterm>
+        <indexterm>plugin</indexterm>
       </keywords>
     </metadata>
   </prolog>
