@@ -10,7 +10,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>configuration settings</indexterm>
+        <indexterm>configuration properties</indexterm>
+        <indexterm>override</indexterm>
       </keywords>
     </metadata>
   </prolog>
