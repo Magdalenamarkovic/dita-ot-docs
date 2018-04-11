@@ -10,7 +10,12 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>plugin</indexterm>
+        <indexterm>extension point</indexterm>
+        <indexterm>custom plugin</indexterm>
+        <indexterm>element</indexterm>
+        <indexterm>dita:extension</indexterm>
+        <indexterm>attribute</indexterm>
       </keywords>
     </metadata>
   </prolog>
