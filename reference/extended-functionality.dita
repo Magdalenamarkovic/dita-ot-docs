@@ -16,7 +16,9 @@
   <prolog>
     <metadata>
       <keywords>
-        <indexterm></indexterm>
+        <indexterm>line content</indexterm>
+        <indexterm>token keywords</indexterm>
+        <indexterm>character encoding</indexterm>
       </keywords>
     </metadata>
   </prolog>
